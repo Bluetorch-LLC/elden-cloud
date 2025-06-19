@@ -2,7 +2,7 @@
 If for one reason or another you want to get ahold of me or game with me,
 here's how to do it.
 
-**Email:** zenkora@icloud.com </br>
+**Email:** jesse@elden.cloud </br>
 **Discord:** zenkora </br>
 **GitHub:** zenkora </br>
 **Xbox:** Zenk0ra </br>
