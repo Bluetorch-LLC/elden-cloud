@@ -1,0 +1,112 @@
+@font-face {
+  font-family: "Helvetica Neue";
+  src: url('font/HelveticaNeue.ttf');
+}
+
+@font-face {
+  font-family: "Helvetica Neue Medium";
+  src: url('font/HelveticaNeueMedium.ttf');
+}
+
+@font-face {
+  font-family: "Monaco";
+  src: url('font/Monaco.ttf');
+}
+
+/* Reset some default styles */
+body, html {
+  font-family: "Helvetica Neue", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Dark mode background */
+body {
+  background-color: #1c1c1e;
+  color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue Medium", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Text */
+p, span, h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+/* Links */
+a {
+  color: #007aff;
+}
+
+/* Buttons */
+.button {
+  background-color: #007aff;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+/* Inputs */
+input, textarea {
+  background-color: #2c2c2e;
+  color: #ffffff;
+  border: 1px solid #4c4c4e;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+/* Cards */
+.card {
+  background-color: #2c2c2e;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  max-width: 100%; /* Ensure the image doesn't exceed the card's width */
+  height: auto; /* Maintain the image's aspect ratio */
+  margin-bottom: 20px; /* Add spacing between the image and other content */
+}
+
+.card pre {
+  background-color: #1e1e1e; /* Dark background for code block */
+  border-radius: 8px;
+  padding: 10px;
+  overflow: auto; /* Enable scrolling for large code blocks */
+}
+
+.card code {
+  display: block;
+  color: #e1e1e1; /* Light text color for code */
+  font-family: 'Monaco', monospace; /* Monospace font for code */
+}
+
+/* Navigation Bar */
+.navbar {
+  background-color: #1c1c1e;
+  color: #ffffff;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Example usage */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-wrap: wrap;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+}
