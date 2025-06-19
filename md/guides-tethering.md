@@ -1,5 +1,5 @@
 ## Elden Guides - Tethering Considerations
-*Last updated 2024.1.21*
+*Last updated 2025.01.21*
 
 So you got yourself a tethering-friendly carrier. Or you didn't, and will do it
 anyway. Regardless this isn't standard home broadband. You have more to do if

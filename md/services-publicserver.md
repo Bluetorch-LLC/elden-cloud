@@ -29,7 +29,4 @@ clutter the home with loose files. I will regularly log in and delete them.
 - Respect other users and their processes and data. But don't keep anything
 vitally important here, either.
 - Do not use the public server for any illegal or unethical activities.
-- If you have any shred of Linux and/or networking knowledge, you'll find out
-in three seconds that the server is bridged to my LAN. I don't particularly
-give a shit if you look around, but don't try to disrupt my network.
 - Abuse = block, reset, or shutdown.

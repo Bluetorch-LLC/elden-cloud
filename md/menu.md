@@ -1,6 +1,9 @@
-[Main](/index.html) |
-[Guides](/guides.html) |
-[Services](/services.html) |
+**Main:** </br>
+[Home](/index.html) |
 [Projects](/projects.html) |
-[Reviews](/reviews.html) |
-[Contact](/contact.html)
+[Guides](/guides.html) |
+[Contact](/contact.html) </br>
+**Journals:** </br>
+[Technology](/tech.html) |
+[Personal](/personal.html) |
+[Political](/politics.html)

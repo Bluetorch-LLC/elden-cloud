@@ -1,5 +1,5 @@
 ## Elden Guides - DIY Router
-*Last updated 2024.11.08*
+*Last updated 2025.06.19*
 
 So you got yourself a plan for your phone and a plan for your use. But now you
 have a new problem: no consumer router supports this shit. OpenWRT might; *if*
@@ -158,7 +158,7 @@ and use this.
 ### Notes
 - You can have as many WAN interfaces and NAT rules as you want. If you happen
 to steal your neighbor's internet service (with permission) you can just add a
-masquerade rule for it below your phone.
+masquerade rule for it below your phone. It will failover as you'd expect.
 - Unconventional WAN interfaces like cellular modems and store-bought wifi
 adapters might need extra software and out-of-tree drivers.
 

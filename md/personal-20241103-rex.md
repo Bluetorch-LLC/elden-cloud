@@ -1,4 +1,6 @@
 ## Elden Blog - (20241103) My Schizoid Crackhead-in-law
+*Last updated 2025.06.19*
+
 I don't even know where to start with this shit. Or how much I can say without
 identifying myself. Whatever, my name is attached to all this shit anyway, and
 he's not capable of using the internet for anything but porn, much less
@@ -63,3 +65,9 @@ people act when they did nothing wrong.
 The days since, he's flipped and began an onslaught of unanswered apologies and
 pleas for forgiveness, along with love-bombing my MIL. I worry that we'll never
 be done with him, honestly.
+
+### Updates
+My MIL ran off to live with him not long after. For the first time in many
+years, she could use the internet and communicate with other people without an
+abusive tweaker standing over her shoulder, and she chose consistent access to
+beer. Whatever.

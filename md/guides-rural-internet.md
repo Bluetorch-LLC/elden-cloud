@@ -1,5 +1,5 @@
 ## Elden Guides - Rural Internet Options
-*Last updated 2024.11.08*
+*Last updated 2025.06.19*
 
 If you live in rural America, you are a second-class internet citizen. And if
 you're not technologically inclined, you are kind of fucked. But that's what
@@ -70,12 +70,12 @@ to switch modes and such. To flip mine from QMI to MBIM mode, I had to boot up
 Ubuntu 14.04 in a VM.
 
 I don't cover these as they are painful to use and I honestly forgot how to
-anyway. You will have to scour the web, sorry.
+anyway. You will have to scour the web like I did, sorry.
 
 #### Picking a Carrier
-So you went with option 5 because it's the least harmful to your wallet or your
-sanity. Now it all comes down to your choices of carrier and plan. You may or
-may not want to shop for a new carrier, for you or for a dedicated tethering
+So you went with option 5 because it's the least deleterious to your wallet or
+your sanity. Now it all comes down to your choices of carrier and plan. You may
+or may not want to shop for a new carrier, for you or for a dedicated tethering
 device if you have one. You want three things out of it:
 1. A strong, consistent signal
 2. No hard data cap

@@ -1,7 +1,13 @@
 ## Elden Cloud - Contact
-If for one reason or another you want to get ahold of me, here's how to do it.
+If for one reason or another you want to get ahold of me or game with me,
+here's how to do it.
 
+**Email:** zenkora@icloud.com </br>
 **Discord:** zenkora </br>
+**GitHub:** zenkora </br>
 **Xbox:** Zenk0ra </br>
-**Steam Code:** 154613710 </br>
-**Email:** zenkora@icloud.com
+**Steam Code:** 154613710
+
+Feel like buying me a beer?
+
+**CashApp:** $AcidCrow

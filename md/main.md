@@ -1,7 +1,13 @@
 ## <u>Elden Cloud - Zenkora's Domain</u>
-Personal websites are all but dead, and have been since the mid 2010s. But here
-this one persists. Running on a shitty cellular connection, spite, and
-nostalgia for the 2000s.
+The personal internet hidey-hole of a 30-year-old Okie. I'm Jesse (aka\*
+zenkora). I like guns, fishing and (obviously) tech, and I'm just as at-home
+with a Mac as I am an Arch box with i3wm, a legacy machine loaded with Windows
+98, or a spare toaster running Haiku. Maybe you will find something here useful
+or entertaining.
+</br><sup>\*I am known by my handle to maybe five people lmao.</sup>
 
-I'm a 29 year old autist living in Okie Land, and this is the little slice of
-the internet I can call mine.
+Personal sites and blogs are all but dead, but here this one persists. It's
+moved across domains, servers, and states, been accidentally destroyed and
+remade a couple times, but I still hold onto the delusion that people are
+actually clicking a link somewhere, ending up on my site, and reading my drivel
+or using something I made. Intentionally even. Crazy thought, isn't it?

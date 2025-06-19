@@ -1,5 +1,5 @@
 ## Elden Guides - Use a VPN
-*Last updated 2021.1.21*
+*Last updated 2025.06.19*
 
 If you're using any cellular connection, whether your usage is technically
 allowed or not, you should get a VPN. Cell carriers have always been the worst
@@ -43,7 +43,7 @@ Package: `openvpn` or `openvpn-client`
 ### 2. Realtime Priority (Optional)
 If you use OpenVPN (and especially if you have hardware crypto) this will help
 you tremendously. Your VPN process will preempt absolutely everything else on
-the computer and handle it ASAP.
+the computer and handle that layer with as close to zero delay as it can.
 1. Install an `rt` kernel from your distro repositories and boot into it
 2. Run `chrt -d -p $(pidof openvpn)`
 
@@ -52,15 +52,21 @@ Copy your VPN config to the appropriate directory. That will be
 `/etc/openvpn/client` or `/etc/wireguard`. You will then want to to enable the
 service with `systemctl enable <vpn-service>@<config>`.
 
-Open your firewall rules and add a source NAT rule for your VPN interface, in
-the `nat` table, above your other interfaces:
+Open your firewall rules and add a rule for your VPN interface, in the `nat`
+table, above your other interfaces. If you have a static, public IP, you will
+want to use a source NAT rule:
 ```
 -A POSTROUTING -s 10.0.0.0/24 -o <vpn_if> -j SNAT --to-source <ip>
 ```
+Otherwise, if you receive a private address or you are at all unsure, use a
+masquerade rule:
+```
+-A POSTROUTING -s 10.0.0.0/24 -o <vpn_if> -j MASQUERADE
+```
 
-You will then want to install and configure `miniupnpd` if you game. It's
-pretty easy, and because we defined the `MINIUPNPD` chains in your iptables
-rules earlier it should just work.
+You will then want to install and configure `miniupnpd` if you game, and have a
+public address. It's pretty easy, and because we predefined the `MINIUPNPD`
+chains in your iptables rules earlier it should just work.
 
 ### 4. Secure Your Shit
 You should probably go and disable password auth in your SSHd config and use

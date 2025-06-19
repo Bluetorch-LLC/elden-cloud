@@ -1,8 +1,12 @@
 ## Elden Cloud - Projects
-This page contains shit I wrote.
+This page contains stuff I wrote for your computer and not for your eyes. Well,
+unless it's open source, then it's both.
 
-### Prio Tool
+### PrioTool for Windows
 A process priority management tool for Windows 7 and up.
 
 [GitHub](https://github.com/zenkora/priotool) |
-[Download](https://elden.cloud/releases/PrioTool-v2.zip)
+[Download](https://github.com/zenkora/priotool/releases/latest)
+
+### PrioTool for Mac
+Work in progress.
