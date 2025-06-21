@@ -1,4 +1,4 @@
-## Elden Cloud - Technology
+## Elden Journal - Technology
 This is where I rant about technology that I use, love, hate, find cool as
 hell, et cetera.
 

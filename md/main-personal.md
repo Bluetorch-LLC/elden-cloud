@@ -1,4 +1,4 @@
-## Elden Cloud - Personal
+## Elden Journal - Personal
 The clothesline where I air out my dirty laundry and personal ramblings.
 
 If you're the type to become deeply and personally offended by some guy's
