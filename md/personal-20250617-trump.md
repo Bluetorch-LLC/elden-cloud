@@ -147,12 +147,12 @@ I myself am now well past drafting age. So I don't worry about getting blown to
 smithereens in the Battle of Tehran now in a dumbass war I don't believe in.
 Instead I worry about nuclear hellfire or cancerous air here at home, if not
 from Russia or China, from Israel pulling their Samson Option once they bite
-off more than they can chew, and burning the world as some twisted punishment
-for not helping them enough. And to top it off, I have friends who are *not*
-outside of drafting age. I don't know what Kamala would've done. She probably
-would've already gotten us involved with some bleeding-heart bullshit, rather
-than bastardizing Christianity and appealing to the end-times fanaticism of
-evangelical ghouls. But I do know for certain that I have never felt *less*
+off more than they can chew, and decide to burn the world as some twisted
+punishment for not helping them enough. And to top it off, I have friends who
+are *not* outside of drafting age. I don't know what Kamala would've done. She
+probably would've already gotten us involved with some bleeding-heart bullshit,
+rather than bastardizing Christianity and appealing to the end-times fanaticism
+of evangelical ghouls. But I do know for certain that I have never felt *less*
 certain about the future, or whether I'll even get to see my next decade on
 Earth.
 
