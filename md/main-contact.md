@@ -13,8 +13,8 @@ here's how to do it.
 I am open to job offers and proposals, whatever they are. The worst I'll say is
 "no thanks."
 
-**Email: (Freelance/Contract)** [bluetorch@elden.cloud](mailto:bluetorch@elden.cloud) </br>
-**Email: (W2)** [jjones_jobhunt@icloud.com](mailto:jjones_jobhunt@icloud.com)
+**Email (Freelance/Contract):** [bluetorch@elden.cloud](mailto:bluetorch@elden.cloud) </br>
+**Email (W2):** [jjones_jobhunt@icloud.com](mailto:jjones_jobhunt@icloud.com)
 
 ### Tip Jar
 Feel like buying me a beer?
