@@ -1,0 +1,160 @@
+## Elden Journal - (2025.06.17) Donald Trump
+All my life, I've known who Donald Trump is, and my opinion of him has taken a
+rollercoaster ride influenced by memes, his own actions, and my own growth.
+
+### 2007
+I was almost 12 years old. The "you're fired" guy just shaved Vince McMahon's
+head on Wrestlemania 23. He must be the coolest motherfucker alive. From then
+on, when I played Monopoly with my friends, whoever ended up wealthiest was
+Donald and the brokest of us was Vince; and said loser was *totally* gonna have
+his head shaved bald at the end. Fun times. *Simpler* times. And if you weren't
+down with that, we had two words for ya: ***suck it.*** </br>
+<sup><sup>Holy fuck, am I getting old?</sup></sup>
+
+### 2015-2016
+I was a fresh adult. Just entering my 20s. And while I lamented missing out on
+going to college and being a free spirit (both because my family was poor and I
+fucked off in high school), I saw nothing but possibilities ahead and every
+smidge of adulthood I got to partake in still felt cool. I was still in my
+first year with the woman who's now my wife. I was also just starting to form
+my own earnest, adult political opinions absent peer pressure (but still
+through the fading lense of immaturity). And unfortunately, they were
+borderline ancap. I rode the Trump train *hard* because to me, less
+government = good and Republican = basically red Libertarians. And the memes.
+Fucking hell, the memes. Donnie T was gonna abolish the ATF, legalize weed,
+deregulate everything that is cool, make Mexico build a Great Wall of America,
+and repave the highways with asphalt made from platinum dust and unicorn shit.
+And boy did I believe it.
+
+As the 2016 election ticked closer, Trump's campaign became less of a funny
+meme to me and more of a serious matter. Hillary Clinton not only wanted to ban
+everything that goes "bang" like every single Democrat says they want to, and
+generally be the enemy of everything fun and cool, she was gonna start World
+War III with Russia. And to boot, I was prime drafting age. I certainly didn't
+want to have my card pulled and die in the Battle of Moscow at the age of 21.
+So I spent the night of November 4th refreshing Google, over and over, and when
+Trump scored that electoral college win I cheered. I cheered because I thought,
+for the next four years at minimum and the first chunk of my "real" adult life,
+he was gonna "Make America Great Again" and things were gonna be *fucking*
+great. And I wasn't gonna get drafted, which was nice.
+
+I still believe Hillary would have started a war if she had won; not because
+she's "le ebil satanist pizzagate child trafficker" but because war lines her
+pockets. So I don't really regret being a Trumper in this time all that much.
+
+### 2017
+I still firmly believed that America was going to be great "again" for most of
+his first year. And then the Las Vegas shooting happened. And then Trump made
+his first authoritarian slip. He signed an executive order telling the ATF to
+simply "reconsider" a plastic doodad as being a whole entire machine gun. To
+this day, that serves as a terrifying precedent in my eyes, a can of worms that
+a (D) just has yet to spill.
+
+This is about where I bailed from the Trump train, along with a lot of other
+libertarians. I didn't like him so much anymore. Nonetheless, I was still glad
+that he held office instead of Hillary.
+
+And I still believe that was an actual machine gun, by the way. No way a piece
+of plastic did that, my dad had one and it was fucking garbage that a belt loop
+and your thumb could easily outdo. But that's a conspiracy for another article.
+
+### 2018-2019
+I was still a young adult, getting my bread and enjoying my video games. I
+started smoking a lot more weed. Didn't really care about politics in this time
+as nothing seriously changed, as far as I knew, for the better or worse. Trump
+didn't really *do* anything that outraged me or scored points with me. I kinda
+consider this the ass end of my young adulthood and I'm glad I didn't spend it
+all making myself angry.
+
+### 2020-2021
+Now I'd switched jobs. I was working more and earning more money. The bigger
+checks lightly tapped me towards the right, while the Malthusian policies that
+were seemingly designed to maximize employee misery pushed me left with an
+armored bulldozer. And then I got a raise. $15 an hour was pretty fucking good
+money for a while. I could afford to buy nice things and try weird food. It was
+great, despite the plague and associated rules.
+
+I didn't know how to feel, really. I was acutely aware that the things that
+made life grueling, that made waking up a regrettable experience five days a
+week, would never change under Republicans. But I also had more purchasing
+power than ever and grew a 700+ credit score, and that really softened the
+blows life dealt.
+
+When the 2020 election came around, I was no longer under the illusion that
+Trump would restore America to "greatness." I low-key wanted him to win again
+because he was a known quantity. But beyond that, I didn't care enough to vote.
+Then Biden won. Okay, great. I'm politically literate enough now to know that
+gun bans float like lead bricks, so maybe he'll focus on some of the other,
+more useful promises Democrats like to make.
+
+### 2022-2024
+Nope. Instead Biden did seemingly *nothing*. When he did do something, he
+rolled a nat-1. Like, he made it illegal for rail workers to strike and would
+you look at that, it ended in chemical disaster. And gradually, that $15's
+buying power started to feel like $10 and I had less disposable income than
+before. I didn't follow the news that closely, I don't know exactly what in the
+actual *fuck* he did with his "Build Back Better" plan but I, a wage worker at
+the bottom rung of society, was getting poorer for reasons entirely outside of
+my control. Weird, Democrats are supposed to be the champions of the working
+class or something. Where is the "building," the "back," or the "better?" It
+sure wasn't me or anyone I know eating from it.
+
+Then, as the next election approached, Trump made it abundantly clear that he
+too had lost his motherfucking mind. No memes. No funny. Just straight to "DeY
+EaTiNg dA DoGs N CaTs" dementia, as Biden dipped out and let the queen of the
+prison-industrial complex run in his place. I just knew we were super mega
+deluxe fucked either way, and again did not vote.
+
+### 2025
+Now Trump's been president (again) for about five months. And unfortunately
+he's just demented enough, and yet just cognizant enough, to be the fucking
+Antichrist. Look. I'm not a screeching liberal. I will not judge you harshly or
+accuse you of being anything if you voted for him or believed in him. But at
+least have the decency to call a duck, a duck. Take off the blinders and the
+rose-tinted glasses, it's not 2016 anymore, this is no longer funny or cool or
+something you should be proud of. This is the actual death knell of the
+Constitution, and your rights are not exempt from the chopping block, they're
+just further back in line than the *other* people's.
+
+A group of armed, masked men who refuse to identify themselves and incite fear
+in the populace is called a gang. Said gang grabbing US citizens and legal
+residents off the street is called kidnapping. Government thugs traumatizing US
+citizens in their home, who've committed no crime, with a no-knock raid is
+called police brutality. Subsequently forcing an underaged girl to stand
+outside in her underwear for all to see is called sexual abuse. Seizing that
+family's money and electronics, after ensuring they all need long-term therapy,
+is called mugging. Targeting people and assuming their immigration status on
+the basis of their skin color is called racism. Manufacturing fears of civil
+unrest and deploying the military against dissenters is called fascism. And
+sending anyone accused of a **civil offense** in the United States, to a
+foreign supermax prison known for its brutality and overcrowding with no
+counsel or contact with family, is called a callous disregard for human rights.
+You do not have to have blue hair or believe in 73,000 genders to call these
+things what they are. But you *do* have to be morally bankrupt to excuse or
+cosign this shit.
+
+And then there's Israel. America first, unless Israel wants something. Since
+Trump's inauguration, the first amendment has been reduced to a vestige. Never
+before in the history of the United States has there been such fervent defense
+of a foreign state, with anti-BDS (Boycott, Divest, Sanction) laws threatening
+to deprive lower governments of their own citizens' funds, criticism of Israel
+now being grounds to revoke or deny visas, and jailtime having been called for
+and floated for anti-Zionist speech. And, oh- what's that? Israel is straight
+up starting a war now? And Russian brass is openly talking about WW3? Great.
+Fucking great. American troops to Iran in 3...2...1...
+
+I myself am now well past drafting age. So I don't worry about getting blown to
+smithereens in the Battle of Tehran now in a dumbass war I don't believe in.
+Instead I worry about nuclear hellfire or cancerous air here at home, if not
+from Russia or China, from Israel pulling their Samson Option once they bite
+off more than they can chew, and burning the world as some twisted punishment
+for not helping them enough. And to top it off, I have friends who are *not*
+outside of drafting age. I don't know what Kamala would've done. She probably
+would've already gotten us involved with some bleeding-heart bullshit, rather
+than bastardizing Christianity and appealing to the end-times fanaticism of
+evangelical ghouls. But I do know for certain that I have never felt *less*
+certain about the future, or whether I'll even get to see my next decade on
+Earth.
+
+Thank you Cheeto Man, Vodka Chimp, Winnie the Pooh, and Jewish Hitler.
+Very cool.

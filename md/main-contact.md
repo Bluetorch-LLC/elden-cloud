@@ -10,11 +10,11 @@ here's how to do it.
 **Steam Code:** 154613710
 
 ### Work
-I am open to work, whatever it is. The worst I'll say is "no thanks."
+I am open to job offers and proposals, whatever they are. The worst I'll say is
+"no thanks."
 
-**Email: (Freelance)** [bluetorch@elden.cloud](mailto:bluetorch@elden.cloud) </br>
+**Email: (Freelance/Contract)** [bluetorch@elden.cloud](mailto:bluetorch@elden.cloud) </br>
 **Email: (W2)** [jjones_jobhunt@icloud.com](mailto:jjones_jobhunt@icloud.com)
-
 
 ### Tip Jar
 Feel like buying me a beer?

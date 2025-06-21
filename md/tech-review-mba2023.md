@@ -1,4 +1,4 @@
-## Elden Reviews - 2023 MacBook Air
+## Elden Journal - Review: 2023 MacBook Air
 *Ladt updated 2024.03.08*
 
 Let me start by saying I've always loved OS X/macOS and even ran it on a

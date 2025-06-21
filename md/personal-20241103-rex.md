@@ -1,4 +1,4 @@
-## Elden Blog - (20241103) My Schizoid Crackhead-in-law
+## Elden Journal - (20241103) My Schizoid Crackhead-in-law
 *Last updated 2025.06.19*
 
 I don't even know where to start with this shit. Or how much I can say without
@@ -20,11 +20,11 @@ Fast-forward to three-ish weeks ago, we moved in with my GMIL, where my MIL
 also lives and the crackhead-in-law occasionally stays. He inherited a whole
 entire house and has nothing but complaints in private with me, but I guess not
 fucking his hand is worth more than he likes. But anyway, he actually helped
-us with the move. We arranged for transport of our RV since my truck has a dead
-injector. And he did chauffer us around. He was actually being cool for a
-while. Until on one of those trips, he whipped out a motherfucking crack pipe.
-And hit it, with me in his little Silverado. So I'm in a vehicle doing 90 with
-a strung out driver. Nice.
+us with the move back to OK. We arranged for transport of our RV since my truck
+has a dead injector. And he did chauffer us around. He was actually being cool
+for a while. Until on one of those trips, he whipped out a motherfucking crack
+pipe. And hit it, with me in his little Silverado. So I'm in a vehicle doing 90
+with a strung out driver. Nice.
 
 ### The Incident
 It all came to a head about two weeks ago. I'm drinking coffee with my wife,
@@ -51,23 +51,35 @@ threatened me a few times before he finally fucked off.
 
 ### The Aftermath
 The neighbors, of course, called the sheriff's department. They witnessed
-everything go down following his return. The cops made me get on the ground and
-took my gun while they figured out who's who and we all signed a trespass. That
-at least went smooth. But it didn't even end there.
+everything go down following his return. The Marshall County Mounties showed up
+in a few minutes, calmly ordered me on the ground, and swiped my gun from my
+holster while they figured out who's who. We made a report and all signed a
+trespass, including Grams. They handed my gun back unloaded and then left. That
+was a relatively chill and courteous interaction. But the crackhead, he was not
+chill or courteous afterwards.
 
-This man proceeded to spend the next sixteen hours sendimg me walls of
+This man proceeded to spend the next sixteen hours sending me walls of
 scathing, barely-coherent speech-to-text messages threatening to punch me in
 the face, shoot me, break my arms, and take me to court in no particular order.
 Meanwhile, he also found time to leave my wife a long voicemail full of
 threats, and even blew up the neighbors for calling 911. Because that's how
-people act when they did nothing wrong.
+people act when they did nothing wrong. And the cherry on top: he threatened to
+press charges against ME for threatening to shoot him.
+
+Well fuck you, you dipshit tweaker. If I had done anything you could press
+charges for, they wouldn't have given my gun back or left without me.
+Everything I did was within the bounds of Oklahoma self-defense law. Weapons
+make everything so much more serious; that was not just a civil dispute, that
+was an armed standoff, and I could have mag-dumped your face at any point if
+you even twitched towards that .32 in your pocket. How about you let a cop know
+you have that and see which one of us goes to jail?
 
 The days since, he's flipped and began an onslaught of unanswered apologies and
 pleas for forgiveness, along with love-bombing my MIL. I worry that we'll never
 be done with him, honestly.
 
 ### Updates
-My MIL ran off to live with him not long after. For the first time in many
-years, she could use the internet and communicate with other people without an
-abusive tweaker standing over her shoulder, and she chose consistent access to
-beer. Whatever.
+My MIL ran off to live with him again not long after. For the first time in
+many years, she could use the internet and communicate with other people
+without an abusive tweaker standing over her shoulder, and she chose consistent
+access to beer. Whatever.
