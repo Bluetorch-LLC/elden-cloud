@@ -1,0 +1,3 @@
+Keyserver: keyserver.ubuntu.com
+Fingerprint: D2F9447FA4765C3A8BA00488047F00E2E2ACEB4D
+Email: jesse@elden.cloud

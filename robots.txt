@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Allow: /guides/
+Allow: /journal/
+Disallow: /md/
+Disallow: /img/
+Disallow: /font/
+Disallow: /etc/
