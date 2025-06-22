@@ -86,10 +86,10 @@ top to bottom, they do that too.
 
 Hasbara is the reason why the people you know and talk to IRL are appalled, but
 the internet gives the appearance that all your friends, neighbors, family,
-colleagues, etc are cheering for the IDF. It's why, when Israel does something
-disgustingly inhuman for the umpteenth time, every public forum becomes
-inundated with a ceaseless torrent of shilling and whataboutism that, honestly,
-no sane individual should believe is real.
+colleagues, etc are cheering for the IDF. It's why, every time Israel does
+something disgustingly inhuman, every public forum becomes inundated with
+shilling and whataboutism at such a speed and magnitude that, honestly, no sane
+individual should believe it.
 
 #### Citations
 [Wikipedia: "Public diplomacy of Israel"](https://en.wikipedia.org/wiki/Public_diplomacy_of_Israel)</br>
