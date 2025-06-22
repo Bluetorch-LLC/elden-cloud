@@ -4,5 +4,5 @@
 [Guides](/guides.html) |
 [Contact](/contact.html) </br>
 **Journals:** </br>
-[Technology](/tech.html) |
-[Personal](/personal.html)
+[Personal](/personal.html) |
+[Technology](/tech.html)
