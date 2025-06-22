@@ -1,9 +1,9 @@
 **Main:** </br>
 [Home](/index.html) |
+[Guides](/guides/index-guides.html) |
 [Projects](/projects.html) |
-[Guides](/guides.html) |
 [Contact](/contact.html) </br>
 **Journals:** </br>
-[Technology](/tech.html) |
-[Personal](/personal.html) |
-[Politics](/politics.html)
+[Technology](/journal/tech/index-tech.html) |
+[Personal](/journal/personal/index-personal.html) |
+[Politics](/journal/politics/index-politics.html)
