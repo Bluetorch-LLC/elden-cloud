@@ -29,7 +29,7 @@ turn on Fox News or CNN. And it's mostly homegrown, by our own
 military-industrial complex and the warhawk politicians who get rich off of it.
 
 The goal is to convince you of two things:
-1. The same acts can be unilaterally reprehensible for one side of a conflict
+1. The same acts can be unilaterally reprehensible for one side of a conflict,
 but necessary and justified for the other.
 2. The public has already chosen the "correct" side of the conflict and
 endorses America's involvement in it.
