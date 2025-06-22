@@ -1,18 +1,19 @@
 ## Elden Journal - (2025.06.18) Identifying Propaganda
 Bush's Global War on Terror permeated my childhood. I watched 9/11 on TV at six
-years old, not understanding at all what was happening at the time or that the
-world I was born into had just died. I remember trying to be "grown up" through
-my single-digit years by watching the news, and hearing so much about Saddam
-Hussein, the manhunt, and his eventual capture. Then all that energy pivoted to
-Osama. And through all of it, both when I was 7 and when I was 17, I always
-thought the way they said things on the news was really weird, like they were
-trying to manipulate my feelings. And it turns out they were doing just that.
-What I thought was strange and flowery wording actually fucking worked on the
-adults around me, apparently. The WMDs weren't real, but the government-media
-machine manufactured FUD to justify raping the Middle East to find them. And
-would you look at that, America is looking at another bullshit war now, so the
-propaganda machines will be shifted back into high gear and old pages in the
-playbook dusted off.
+years old, not understanding at all what was happening at the time, or that the
+carefree America I was born into had just died. I remember trying to be "grown
+up" through my single-digit years by watching the news, and hearing so much
+about Saddam Hussein, the manhunt, and his eventual capture. Then all that
+energy pivoted to Osama until the SEALs got him too. And through all of it,
+both when I was 7 and when I was 17, I always thought the way they said things
+on the news was really weird, like they were trying to manipulate me to feel
+good about people dying half the world away. And it turns out they were doing
+just that. What I thought was strange and flowery wording actually fucking
+worked on the adults around me, apparently. The WMDs weren't real, but the
+government-media machine manufactured FUD to justify raping the Middle East to
+find them. And would you look at that, America is looking at another bullshit
+war now, so the propaganda machines will be shifted back into high gear and old
+pages in the playbook dusted off.
 
 So, I think it's really important, perhaps now more than ever, for people to
 understand propaganda and recognize it before it works. Back then it was just
