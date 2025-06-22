@@ -5,4 +5,5 @@
 [Contact](/contact.html) </br>
 **Journals:** </br>
 [Personal](/personal.html) |
-[Technology](/tech.html)
+[Technology](/tech.html) |
+[Politics](/politics.html)
