@@ -29,3 +29,5 @@ went away and every page got its own stub. I'm not a webdev, but I value
 simplicity and this is it. Feel free to take my JS and CSS for your own site.
 
 Proudly not mobile-friendly. Idgaf if I don't get ranked high on Google.
+
+### Message Box

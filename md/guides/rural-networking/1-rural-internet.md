@@ -99,3 +99,5 @@ The process of unlocking a bootloader and flashing a ROM varies by device.
 Google it.
 
 [Next: DIY Router](/guides/rural-networking/2-diy-router.html)
+
+### Comments

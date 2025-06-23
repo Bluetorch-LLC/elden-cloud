@@ -164,3 +164,5 @@ adapters might need extra software and out-of-tree drivers.
 
 [Previous: Rural Internet Options](/guides/rural-networking/1-rural-internet.html)<br/>
 [Next: Tethering Considerations](/guides/rural-networking/3-tethering.html)
+
+### Comments

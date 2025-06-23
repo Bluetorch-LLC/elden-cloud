@@ -97,3 +97,5 @@ individual should believe it.
 [Arutz Sheva: "Op Ed: The Hasbara Hijack"](https://web.archive.org/web/20140724035511/http://www.israelnationalnews.com/Articles/Article.aspx/4175#.U9CDti_P1qY)</br>
 [BBC: "Israel: Government pays students to fight internet battles"](https://www.bbc.com/news/blogs-news-from-elsewhere-23695896)</br>
 [Mint Press News: "Are You Debating a Bot?"](https://www.mintpressnews.com/are-you-debating-a-bot-investigation-reveals-israeli-disinformation-ai-network/288635/)
+
+### Comments

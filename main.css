@@ -63,6 +63,14 @@
 }
 
 
+.fb-comments {
+    background-color: #dfdfdf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 body {
     background-color: #404040;
 }
