@@ -5,7 +5,7 @@ here's how to do it.
 
 **Email:** [jesse@elden.cloud](mailto:jesse@elden.cloud) </br>
 **Discord:** zenkora </br>
-**GitHub:** zenkora </br>
+**GitHub:** @zenkora </br>
 **Xbox:** Zenk0ra </br>
 **Steam Code:** 154613710
 
