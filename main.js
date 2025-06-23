@@ -1,7 +1,6 @@
 function update_md(markdownFileURL, targetDivID) {
     const converter = new showdown.Converter();
     converter.setOption('tables', true);
-    converter.setOption('openLinksInNewWindow', true);
     converter.setOption('emoji', true);
     converter.setOption('underline', true);
     converter.setOption('strikethrough', true);
