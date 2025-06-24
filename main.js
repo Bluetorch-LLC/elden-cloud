@@ -1,10 +1,33 @@
-function update_md(markdownFileURL, targetDivID) {
+var blockedCountries = [
+    //"US",
+    // Israel
+    "IL",
+    // India
+    "IN"
+]
+
+function countryBlackListCheck() {
+    try {
+        fetch("https://api.country.is")
+            .then(res => res.json())
+            .then(data => {
+        if (blockedCountries.includes(data.country)) {
+            window.location.href = "/special/blocked-country.html";
+        }});
+    } catch (err) {
+        console.error("Geolocation failed:", err);
+        window.location.href = "/special/blocked-country.html";
+    }
+}
+
+function update_md_nocheck(markdownFileURL, targetDivID) {
     const converter = new showdown.Converter();
     converter.setOption('tables', true);
     converter.setOption('emoji', true);
     converter.setOption('underline', true);
     converter.setOption('strikethrough', true);
     converter.setOption('ghMentions', true);
+
     const targetDiv = document.getElementById(targetDivID);
 
     fetch(markdownFileURL)
@@ -16,6 +39,11 @@ function update_md(markdownFileURL, targetDivID) {
       .catch(error => {
         console.error('Error fetching or converting markdown:', error);
     });
+}
+
+function update_md(md, div) {
+    countryBlackListCheck();
+    update_md_nocheck(md, div);
 }
 
 /*! showdown v 2.1.0 - 21-04-2022 */

@@ -1,3 +1,8 @@
+<sup><sup><sup>
+[Privacy](/special/privacy.html) |
+[License](/special/license.html) |
+[Generative AI](/special/gen-ai.html) </br></br>
+</sup></sup></sup>
 **Main:** </br>
 [Home](/index.html) |
 [Guides](/guides/index-guides.html) |
