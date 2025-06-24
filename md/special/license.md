@@ -1,8 +1,8 @@
 ## Elden Cloud - Site Licenses
 
-This website's textual contents are © 2025 Bluetorch LLC and released under a
-CC-BY-SA (Creative Commons-Attribution Sharealike) license. You may reproduce
-them in whole or part with attribution.
+This website's textual contents are © 2024-2025 Bluetorch LLC and released
+under a CC-BY-SA (Creative Commons-Attribution Sharealike) license. You may
+reproduce them in whole or part with attribution.
 
 The CSS and bit of frontend JavaScript are released to the public domain.
 
