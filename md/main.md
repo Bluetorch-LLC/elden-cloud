@@ -20,13 +20,14 @@ money and a debit card I could do just that. I've owned a handful of domains
 before, but this one (elden.cloud) is the first one cool enough to renew.
 Because I love Elden Ring.
 
-Every page is a stub that loads content written in markdown and uses
-showdown.js to translate it. Previous implementations were basically an SPA but
-that made it impossible to link to specific pages, so 90% of the JavaScript
-went away and every page got its own stub. I'm not a webdev, but I value
-simplicity and this is it. The CSS and frontend JS are public domain so you can
-just steal them for your own site if you like it.
+The pages you're loading are basically just templates, the actual content is
+written in Markdown and pulled/translated on page load. So in a sense this site
+is like, 40% of a CMS, but it all works client-side and looks/acts exactly the
+way I want. No infinite autoscrolling bullshit, no attention grabbing, just
+words and pictures on a clean background. The antithesis of the modern
+web. And this design is simple enough that any non-coding individual with
+moderate Google-fu could steal and adapt it.
 
-Proudly not mobile-friendly. Idgaf if I don't get ranked high on Google.
+Proudly not mobile-friendly. Idgaf if I don't get a high Google ranking.
 
 ### Message Box
