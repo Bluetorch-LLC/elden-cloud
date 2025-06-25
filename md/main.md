@@ -18,15 +18,14 @@ something here useful or entertaining.
 I wanted to run my own website since I was, like, 10. And once I had adult
 money and a debit card I could do just that. I've owned a handful of domains
 before, but this one (elden.cloud) is the first one cool enough to renew.
-Because I love Elden Ring. I used to pay for a VPS too, before realizing the
-domain is all I need; GitHub hosts this site and Apple handles my email, and I
-don't have to worry about securing either from Southeast Asian script kiddies.
+Because I love Elden Ring.
 
 Every page is a stub that loads content written in markdown and uses
 showdown.js to translate it. Previous implementations were basically an SPA but
 that made it impossible to link to specific pages, so 90% of the JavaScript
 went away and every page got its own stub. I'm not a webdev, but I value
-simplicity and this is it. Feel free to take my JS and CSS for your own site.
+simplicity and this is it. The CSS and frontend JS are public domain so you can
+just steal them for your own site if you like it.
 
 Proudly not mobile-friendly. Idgaf if I don't get ranked high on Google.
 
