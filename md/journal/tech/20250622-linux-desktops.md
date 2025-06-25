@@ -1,13 +1,13 @@
 ## Elden Journal - (2025.06.22) Best and Worst Linux Desktop Environments
-In 2010, when I started using Linux, it had a *fuck ton* of options for desktop
+In 2010, when I started using Linux, it had a million options for desktop
 environments and window managers. There were a million offshoot distros for
-every conceivable setup. And most of them sucked balls and/or had no reason to
+every conceivable setup. And most of them sucked ass and/or had no reason to
 exist.
 
-In 2025, Linux still has a *fuck ton* of options, and a million offshoot
-distros with no legitimate reason to exist. And most of them kinda suck balls.
-I'm not covering all the weird bespoke bullshit out there, mostly the DEs
-you'll find in a mainstream distro's repositories.
+In 2025, Linux still has a million options, and a million offshoot distros with
+no legitimate reason to exist. And most of them suck ass. I'm not covering all
+the weird and bespoke options out there, mostly the DEs you'll find in a
+mainstream distro's repositories.
 
 ### KDE Plasma
 **Pros:** full Wayland support, no missing features, plenty of themes</br>
