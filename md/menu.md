@@ -11,5 +11,5 @@
 [Contact](/contact.html) </br>
 **Journals:** </br>
 [Technology](/journal/tech/index-tech.html) |
-[Personal](/journal/personal/index-personal.html) |
-[Politics](/journal/politics/index-politics.html)
+[Politics](/journal/politics/index-politics.html) |
+[Personal](/journal/personal/index-personal.html)
