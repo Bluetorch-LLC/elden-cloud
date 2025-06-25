@@ -125,9 +125,11 @@ broken; I guess it changes so fast that people gave up on it.
 
 Wanna theme it? Have fun finding one that still works, plus a matching shell
 theme that also still works. Do you have tons of VRAM for your heaviest games?
-Not anymore you don't. Accidentally closed your Steam or Discord window? Well,
-the antiuser neckbeard devs don't believe in tray icons and they also broke the
-extensions that put them back, so you can go fuck yourself. Why even bother?
+Not anymore you don't. Accidentally closed your Steam or Discord window? The
+antiuser neckbeard devs don't believe in tray icons and they also broke the
+extensions that put them back, so you can go fuck yourself.
+
+Why even bother?
 
 ![Gnome Screenshot](/img/linux-desktops/gnome.png)
 
