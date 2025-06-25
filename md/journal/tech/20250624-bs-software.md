@@ -56,7 +56,7 @@ to write this article. A post about the release of Motia, a "modern, unified
 backend framework for APIs, events, and agents." What the *fuck?* It apparently
 lets developers kludge *every* framework together. We've gone too far now.
 
-So, I think it's time we apply Grueber's theory to software. If a program's
+So, I think it's time we apply Graeber's theory to software. If a program's
 function can't be described in three words or less, fuck you, it's not real.
 
 | Program | Description | Real? |

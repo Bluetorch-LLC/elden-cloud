@@ -1,4 +1,5 @@
 <sup><sup><sup>
+[Terms of Use](/special/tos.html) |
 [Privacy](/special/privacy.html) |
 [License](/special/license.html) |
 [Generative AI](/special/gen-ai.html) </br></br>
