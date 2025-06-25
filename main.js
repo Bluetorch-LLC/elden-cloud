@@ -3,10 +3,12 @@ var blockedCountries = [
     // Israel
     "IL",
     // India
-    "IN"
+    "IN",
+    // Russia
+    "RU"
 ]
 
-function countryBlackListCheck() {
+function country_check() {
     try {
         fetch("https://api.country.is")
             .then(res => res.json())
@@ -20,7 +22,7 @@ function countryBlackListCheck() {
     }
 }
 
-function update_md_nocheck(markdownFileURL, targetDivID) {
+function update_md(markdownFileURL, targetDivID) {
     const converter = new showdown.Converter();
     converter.setOption('tables', true);
     converter.setOption('emoji', true);
@@ -39,11 +41,6 @@ function update_md_nocheck(markdownFileURL, targetDivID) {
       .catch(error => {
         console.error('Error fetching or converting markdown:', error);
     });
-}
-
-function update_md(md, div) {
-    countryBlackListCheck();
-    update_md_nocheck(md, div);
 }
 
 /*! showdown v 2.1.0 - 21-04-2022 */
