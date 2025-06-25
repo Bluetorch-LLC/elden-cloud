@@ -4,7 +4,8 @@ posits that most of the jobs we make for ourselves are fake and psychologically
 harmful in a society that ties one's self-worth to work output.
 
 He defines a "real job" as one whose function can be described in three words
-or less.
+or less. And, he was right. A lot of jobs are bullshit and only exist because
+of other jobs.
 
 | Job | Description | Real? |
 | --- | ----------- | ----- |
@@ -16,7 +17,6 @@ or less.
 | Lawyer | "I *provide legal counsel*" | ✅ |
 | Teacher | "I *educate children*" | ✅ |
 | Middle Manager | "I *oversee the something-department at office 158 of SomeCorp and micromanage everyone's piss breaks*" | ❌ |
-| Tech Bro Startup CEO | "I *apply blockchain and AI to modernize and synergize blah blah blah*" | 🤡 |
 
 This is not an exhaustive list, but you should get the idea.
 
@@ -61,9 +61,11 @@ function can't be described in three words or less, fuck you, it's not real.
 
 | Program | Description | Real? |
 | ------- | ----------- | ----- |
-| ssh | opens remote shells | ✅ |
+| ssh | opens/serves remote shells | ✅ |
 | Sublime Text | edits text | ✅ |
 | Safari | displays webpages | ✅ |
+| nginx | serves webpages | ✅ |
+| MySQL | serves a database | ✅ |
 | Motia | merges everything that does everything into one great big clusterfuck | 🤡 |
 
 ### Comments
