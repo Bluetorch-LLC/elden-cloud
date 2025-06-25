@@ -15,6 +15,6 @@ The Monaco font is owned by Apple. I'll change fonts if asked to but otherwise
 I hope y'all are cool with it. I did copy the file from my 2023 MBA if it helps
 anything.
 
-I don't know where the picture of Ranni in the corner came from. I can't find
-the source with a reverse image search. If someone tells me who the artist is
-I will credit them here.
+I am not affiliated with FromSoft, nor is this site affiliated with them at
+all, and nothing here is meant to give that impression. I just really like
+Elden Ring. And I could write a whole essay on why Ranni is better than Marika.
