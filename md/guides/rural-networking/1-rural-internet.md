@@ -1,5 +1,4 @@
 ## Elden Guides - Rural Internet Options
-*Last updated 2025.06.19*
 
 If you live in rural America, you are a second-class internet citizen. And if
 you're not technologically inclined, you are kind of fucked. But that's what
