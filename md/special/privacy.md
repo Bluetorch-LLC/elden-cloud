@@ -1,7 +1,8 @@
 ## Elden Cloud - Privacy
 No information about you is stored by this site. But the following third-party
 services are used, and *they* might store data about you. It will not hurt my
-feelings if you use an ad blocker.
+feelings if you use an ad blocker, but it would help me greatly if you
+whitelisted this site.
 
 - Facebook (comments)
 - country.is (IP geolocation)
