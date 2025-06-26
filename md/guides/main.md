@@ -1,4 +1,4 @@
-## Elden Cloud - Guides
+## Elden Guides - Main
 This is where I will put guides for random bullshit I've had to scour the
 internet, trudge through old forums and cancerous SEO blogs, and experiment to
 figure out. I hope to spare someone else from that.
