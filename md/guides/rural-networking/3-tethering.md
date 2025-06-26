@@ -13,9 +13,18 @@ looping through the internet forever. Every time a packet goes through a router
 zero the packet is dropped.
 
 To beat this, you will want to make sure all of your traffic has the same TTL
-going out, and this can be done by mangling the packets:
+going out, and this can be done by mangling the packets. Add this table to the
+end of your iptables rules:
 ```
-iptables -t mangle -A POSTROUTING -s 10.0.0.0/24 -o eth1 -j TTL --ttl-set 65
+*mangle
+:INPUT ACCEPT [0:0]
+:FORWARD ACCEPT [0:0]
+:OUTPUT ACCEPT [0:0]
+:MINIUPNPD - [0:0]
+
+-A POSTROUTING -o eth1 -j TTL --ttl-set 65
+
+COMMIT
 ```
 Replace the subnet with the one you use and the interface with your phone. And
 then, so your router does the same, create the file `/stc/sysctl.d/11-ttl.conf`
