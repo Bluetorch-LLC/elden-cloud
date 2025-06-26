@@ -5,9 +5,9 @@ not-safe-for-work by some. I am not responsible for what you click or who is
 reading over your shoulder. Use discretion.
 - Keep comments relevant and on-topic. Use the comment section on the main
 page, or email me, for general questions, feedback, or complaints.
-- Do not use the content or information on this site to break the law.
 - Do not use my content to train AI without written permission. CC-BY-SA
 requires attribution and AI models don't usually give credit for their training
 data.
+- Do not use the content or information on this site to break the law.
 
 That's basically it.
