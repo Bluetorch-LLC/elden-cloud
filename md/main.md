@@ -28,6 +28,7 @@ words and pictures on a clean background. The antithesis of the modern
 web. And this design is simple enough that any non-coding individual with
 moderate Google-fu could steal and adapt it.
 
-Proudly not mobile-friendly. Idgaf if I don't get a high Google ranking.
+Proudly not mobile-friendly. Idgaf if I don't get a high Google ranking. The
+internet wasn't meant to be viewed primarily through a five-inch screen.
 
 ### Message Box
