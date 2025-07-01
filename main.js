@@ -24,13 +24,15 @@ function country_check() {
 
 function update_md(markdownFileURL, targetDivID) {
     const converter = new showdown.Converter();
+    const targetDiv = document.getElementById(targetDivID);
+
+    // settings
     converter.setOption('tables', true);
     converter.setOption('emoji', true);
     converter.setOption('underline', true);
     converter.setOption('strikethrough', true);
     converter.setOption('ghMentions', true);
 
-    const targetDiv = document.getElementById(targetDivID);
 
     fetch(markdownFileURL)
       .then(response => response.text())
