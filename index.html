@@ -1,5 +1,6 @@
 <head>
     <title>Elden Cloud</title>
+
     <!-- Styles -->
     <link rel="stylesheet" href="/main.css"/>
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -9,14 +10,6 @@
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-
-    <script src="/main.js"></script>
-    <script>
-    window.onload = function() {
-        update_md('/md/menu.md', 'menu');
-        update_md('/md/main.md', 'main');
-    }
-    </script>
 
     <!-- Facebook admin ID -->
     <meta property="fb:admins" content="100082494532563"/>
@@ -34,6 +27,15 @@
     <!-- Google ads -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4296339268664360"
      crossorigin="anonymous"></script>
+
+    <!-- Content load -->
+    <script src="/main.js"></script>
+    <script>
+    window.onload = function() {
+        update_md('/md/menu.md', 'menu');
+        update_md('/md/main.md', 'main');
+    }
+    </script>
 </head>
 
 <body>
